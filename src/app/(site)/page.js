@@ -6,7 +6,7 @@ export default function Home() {
         Caio Oliveira
       </div>
       <div className="font-bold text-4xl sm:text-6xl sm:leading-tight text-zinc-50">
-        Desenvolver Web
+        Desenvolvedor Web
         <br />
         Especialista JavaScript
       </div>
