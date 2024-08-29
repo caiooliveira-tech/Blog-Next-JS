@@ -20,13 +20,13 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
-    "autoprefixer": "^10.0.1",
+    "autoprefixer": "^10.4.20",
     "daisyui": "^4.7.2",
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
-    "postcss": "^8",
+    "postcss": "^8.4.41",
     "prisma": "^5.9.1",
-    "tailwindcss": "^3.3.0"
+    "tailwindcss": "^3.4.10"
   },
   "resolutions": {
     "strip-ansi": "6.0.0"
